@@ -1,0 +1,5 @@
+{
+    "liveServer.settings.port": 5507,
+    "prettier.resolveGlobalModules": true,
+    "prettier.tabWidth": 1
+}
